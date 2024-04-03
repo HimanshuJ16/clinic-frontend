@@ -12,12 +12,12 @@ const Contact = () => {
             Feel free to get in touch with us using the contact information provided below. Whether you have
             questions, feedback, or need to schedule an appointment, we're here to assist you.
           </p>
-          <h2 className='text-center leading-7 font-semibold border-2 border-black bg-green-300 rounded-xl py-2'>Sahitya saraswati holistic homeopathic clinic 🏥</h2>
+          <h2 className='text-center leading-7 font-semibold border-2 border-black bg-green-300 rounded-xl py-2'>XYZ Clinic 🏥</h2>
           <div className="flex items-center  mb-4 mt-4">
             <FaMapMarkerAlt className="text-primary mr-2" />
             
             
-            <p>3 Rohini Sector 24 Road, New Delhi, Delhi 110085</p>
+            <p>ABC Road, New Delhi, Delhi 110001</p>
           </div>
           
           <div className="flex items-center  mb-4">
@@ -26,7 +26,7 @@ const Contact = () => {
           </div>
           <div className="flex items-center justify-center font-bold mt-5 bg-green-700 py-3 rounded-xl  mb-4">
             <FaPhone className="text-primary mr-2" />
-            <p>088002 54752</p>
+            <p>099999 99999</p>
           </div>
         </div>
         <div>

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom'
 import uploadImageToCloudinary from '../../utils/uploadCloudinary';
 import { BASE_URL, token } from "../../config.js";
